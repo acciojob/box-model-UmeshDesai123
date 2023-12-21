@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.container{
+      background-color: lightgrey;
+      width: 550px;
+      height: 200px;
+      border: 3px solid rgba(0, 0, 0, 0.677);
+      border-radius: 40px;
+      margin: auto;
+      padding: 10px;
+    }
+    .c1{
+      margin-top: 50px;
+      margin-left: 100px;
+      display: inline-block;
+    }
+    .c2{
+      margin-top: 50px;
+      margin-left: 20px;
+      display: inline-block;
+    }
+    .c3{
+      margin-top: 50px;
+      margin-left: 20px;
+      display: inline-block;
+    }
